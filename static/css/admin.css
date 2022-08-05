@@ -1,0 +1,33 @@
+#header {
+    height: 50px;
+    background:  #10284e;
+    color :  #fff;
+}
+
+#branding h1 {
+    color :#fff;
+}
+
+a:link,
+a:visited {
+    color: #30caa0;
+}
+
+div.breakcrumbs {
+    background: #30caa0;
+    color: #114cac;    
+}
+
+div.breakcrumbs a {
+    color: rgb(235, 34, 34);
+}
+
+.module h2, .module caption, .inline-group h2 {
+    background: #0a614a;
+}
+
+.button, input[type-sumbit], input[type=button], .sumbit-row input, a.button
+{
+    background: #10284e; 
+    color: rgb(173, 119, 119);
+}
